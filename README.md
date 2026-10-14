@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Project Tracker - Setup smoke test
 
 Workshop learning checkpoint. Local demo; no login or multi-user isolation.
@@ -25,3 +26,6 @@ Local browser data is not automatically migrated to SQLite. Recreate test record
 ## GitHub
 Commit source code and package-lock.json. Exclude node_modules, data and credentials.
 Describe your own project and add evidence of testing to this README before the final push.
+=======
+# student-project-tracker
+>>>>>>> 862afb7a147c4e668297cc5fca9690106d92de0d
